@@ -141,11 +141,16 @@ The project ships with a **Streamlit** web app (`app.py`) that goes beyond stati
 
 ### Screenshots
 
-
-```markdown
+**Home — Input Interface**
 ![App Home](https://github.com/user-attachments/assets/8c595694-faab-4bc0-8918-5b4145dce126)
+
+
+**Sentiment Results**
 ![Sentiment Results](https://github.com/user-attachments/assets/901aaab6-7da7-4b1f-b3be-d8d76f16145b)
-![Positive and Negative Comments Detetcion](https://github.com/user-attachments/assets/832a9f78-f749-453a-be38-7724cba9cdea)
+
+
+**Positive and Negative Comments Detection**
+![Positive and Negative Comments Detection](https://github.com/user-attachments/assets/832a9f78-f749-453a-be38-7724cba9cdea)
 (https://github.com/user-attachments/assets/beef0dd5-4835-4ed5-814b-025dfcf56f99)
 
 ```
