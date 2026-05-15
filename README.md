@@ -149,9 +149,14 @@ The project ships with a **Streamlit** web app (`app.py`) that goes beyond stati
 ![Sentiment Results](https://github.com/user-attachments/assets/901aaab6-7da7-4b1f-b3be-d8d76f16145b)
 
 
-**Positive and Negative Comments Detection**
-![Positive and Negative Comments Detection](https://github.com/user-attachments/assets/832a9f78-f749-453a-be38-7724cba9cdea)
-(https://github.com/user-attachments/assets/beef0dd5-4835-4ed5-814b-025dfcf56f99)
+**Positive  Comments Detection**
+![Positive  Comments Detection](https://github.com/user-attachments/assets/832a9f78-f749-453a-be38-7724cba9cdea)
+
+
+**There were 0 Neutral Comments**
+
+**Negative Comments Detection**
+![Negative Comments Detection](https://github.com/user-attachments/assets/beef0dd5-4835-4ed5-814b-025dfcf56f99)
 
 ```
 
