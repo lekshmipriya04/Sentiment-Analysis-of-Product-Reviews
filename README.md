@@ -158,10 +158,8 @@ The project ships with a **Streamlit** web app (`app.py`) that goes beyond stati
 **Negative Comments Detection**
 ![Negative Comments Detection](https://github.com/user-attachments/assets/beef0dd5-4835-4ed5-814b-025dfcf56f99)
 
-```
 
-
-> 🔗 **Live Demo:**
+> 🔗 **Live Demo:** 
 
 https://sentiment-analysis-of-appuct-reviews-wcvcg2zjkk3o8vb65ilejy.streamlit.app/
 
